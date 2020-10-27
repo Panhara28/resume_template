@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
+import './styles/bootstrap.min.css';
+import './styles/socialicon.css';
+import './styles/widget.css';
+import './styles/navbar.css';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
