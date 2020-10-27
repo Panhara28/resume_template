@@ -5,6 +5,7 @@ import './styles/bootstrap.min.css';
 import './styles/socialicon.css';
 import './styles/widget.css';
 import './styles/navbar.css';
+import './styles/homebanner.css';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
